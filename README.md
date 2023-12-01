@@ -11,6 +11,12 @@ When clicking on a button :
 
 You can run in your browser with [play.vuejs.org](https://play.vuejs.org/)
 
+## Important Links
+
+Fontawesome for Icons => https://fontawesome.com/
+Vue js Documentation => https://vuejs.org/api/composition-api-setup.html
+Linear Gradient color maker => https://cssgradient.io/
+
 ## Tips & tricks
 
 Some ideas for playing around:
