@@ -13,16 +13,18 @@ You can run in your browser with [play.vuejs.org](https://play.vuejs.org/)
 
 ## Important Links
 
-Fontawesome for Icons => https://fontawesome.com/
-Vue js Documentation => https://vuejs.org/api/composition-api-setup.html
-Linear Gradient color maker => https://cssgradient.io/
+- Fontawesome for Icons => https://fontawesome.com/
+- Vue js Documentation => https://vuejs.org/api/composition-api-setup.html
+- Linear Gradient color maker => https://cssgradient.io/
 
 ## Tips & tricks
 
 Some ideas for playing around:
-- create validation conditions : check if input field is not empty when clicking on the button
+
+- [add a picture with opacity in the body background](https://www.w3schools.com/css/css_background_image.asp)
+- [modify the button](https://www.w3schools.com/css/css3_buttons.asp) (examples : https://getcssscan.com/css-buttons-examples)
 - add "Bonjour 'firstname'" in the top-left header
-- add a picture with opacity in the body background
+- [customize the inputs](https://vuejs.org/guide/components/v-model.html)
+- [Flexbox, handle elements position](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox)
 - add a contact link with a mailto below the box
-- modify the button
-- customize the inputs
+- create validation conditions : check if input field is not empty when clicking on the button
